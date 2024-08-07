@@ -14,4 +14,5 @@
 
 > - Clone the repo
 > - Run npm i
+> - Add your MONGO_URI
 > - Run node languages.js /path where the repository is cloned/lang.json
