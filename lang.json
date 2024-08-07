@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vietnamese",
+    "code": "vi",
+    "kind": "APP*THERAPIST",
+    "country_code": "VN"
+  },
+  {
+    "name": "Thai",
+    "code": "th",
+    "kind": "APP*THERAPIST",
+    "country_code": "TH"
+  },
+  {
+    "name": "Burmese",
+    "code": "my",
+    "kind": "APP*THERAPIST",
+    "country_code": "MM"
+  },
+  {
+    "name": "Hindi",
+    "code": "hi",
+    "kind": "APP*THERAPIST",
+    "country_code": "HI"
+  }
+]
