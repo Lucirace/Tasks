@@ -10,7 +10,7 @@
 > - Write an executable function that will check if data is already there in DB or not. If not then you have to store that data in DB
 > - You have to disconnect the connection
 
-# Steps to run on you system
+# Steps to run on your system
 
 > - Clone the repo
 > - Run npm i
